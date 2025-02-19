@@ -1,0 +1,1 @@
+# A minimal authentication configuration for MERN
